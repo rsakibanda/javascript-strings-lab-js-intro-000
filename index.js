@@ -9,4 +9,4 @@ var topic = "space";
 
 var conversation = `${topic}`;
 
-var space = `Let's talk about ${space}`
+var space = `Let's talk about ${conversation}`
